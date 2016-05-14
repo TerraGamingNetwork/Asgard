@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace Terra\Asgard\Http\Middleware;
 
 use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as BaseVerifier;
 

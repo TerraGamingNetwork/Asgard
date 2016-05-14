@@ -34,7 +34,7 @@
             "database"
         ],
         "psr-4": {
-            "Asgard\\": "app/"
+            "Terra\\Asgard\\": "app/"
         }
     },
     "autoload-dev": {

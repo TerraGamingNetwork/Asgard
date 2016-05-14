@@ -151,10 +151,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Terra\Asgard\Providers\AppServiceProvider::class,
+        Terra\Asgard\Providers\AuthServiceProvider::class,
+        Terra\Asgard\Providers\EventServiceProvider::class,
+        Terra\Asgard\Providers\RouteServiceProvider::class,
 
     ],
 

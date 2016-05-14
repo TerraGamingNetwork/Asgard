@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Terra\Asgard\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use Terra\Asgard\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
 class PasswordController extends Controller

@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Terra\Asgard\Http\Controllers\Auth;
 
-use App\User;
+use Terra\Asgard\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Terra\Asgard\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

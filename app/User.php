@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Terra\Asgard;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
